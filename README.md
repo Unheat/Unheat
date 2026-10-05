@@ -73,10 +73,9 @@ Focusing on low-latency infrastructure, distributed systems, applied AI, and rea
 
 ---
 
-## GitHub Stats
+## Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Unheat&show_icons=true&theme=rose_pine" alt="Unheat's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unheat&layout=compact&theme=rose_pine" alt="Top Languages" />
 </p>
 
