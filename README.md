@@ -13,6 +13,7 @@ Focusing on low-latency infrastructure, distributed systems, applied AI, and rea
 - 🔬 Software Engineer Research Intern @ **The Lisska Center** (Static analysis & amortized bounds in OCaml)
 - 🎙️ Software Engineer Intern @ **MP Transformation** (AI Telephony, WebSockets & Real-Time Audio Streaming)
 - ⚡ Creator of **Kites** (In-browser WebGPU AI vision engine, 1,000+ users)
+- $ Creator of **MemeTrading** (DAG equity research agents for Denison Investment Club)
 - 🛠️ Creator of **SlothMCP** (Sub-millisecond Model Context Protocol gateway)
 
 ### Highlights
