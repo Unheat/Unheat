@@ -7,7 +7,7 @@ Focusing on low-latency infrastructure, distributed systems, applied AI, and rea
 
 ## Life
 
-<img align="right" width="240" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" />
+<img align="right" width="220" src="https://raw.githubusercontent.com/Unheat/Unheat/main/assets/cat.gif" alt="Black cat typing on laptop" />
 
 - 🏛️ **B.S. in Computer Science** (Minors in Applied Math & ML) at [**Denison University**](https://denison.edu)
 - 🔬 Software Engineer Research Intern @ **The Lisska Center** (Static analysis & amortized bounds in OCaml)
