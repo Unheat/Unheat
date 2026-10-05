@@ -34,7 +34,6 @@ Focusing on low-latency infrastructure, distributed systems, applied AI, and rea
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
   <a href="https://ocaml.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ocaml/ocaml-original.svg" alt="ocaml" width="40" height="40"/></a>
-  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 </p>
 
@@ -57,7 +56,7 @@ Focusing on low-latency infrastructure, distributed systems, applied AI, and rea
 <h3 align="left">Infrastructure & DevOps:</h3>
 <p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></a>
@@ -87,10 +86,14 @@ Focusing on low-latency infrastructure, distributed systems, applied AI, and rea
 
 <p align="center">
   <a href="mailto:dang_a1@denison.edu">
-    <img height="32" alt="Email" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
+    <img height="32" src="https://img.shields.io/badge/Email-dang__a1%40denison.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="dang_a1@denison.edu" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/an-dang-1726b4315/">
-    <img height="32" alt="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+  <a href="https://www.linkedin.com/in/an-dang-1726b4315/" target="_blank" rel="noreferrer">
+    <img height="32" src="https://img.shields.io/badge/LinkedIn-An%20Dang-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+</p>
+
+<p align="center">
+  📬 Direct: <a href="mailto:dang_a1@denison.edu"><code>dang_a1@denison.edu</code></a>
 </p>
