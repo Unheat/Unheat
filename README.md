@@ -20,7 +20,6 @@ Focusing on low-latency infrastructure, distributed systems, applied AI, and rea
 
 - 🏆 **Forbes B. Wiley Award** (Excellence in Mathematics & Computer Science)
 - 🥇 **Top-5 Prize Winner** – Denison Spring Programming Contest (Algorithmic Problem-Solving)
-- 📜 **Dean's List** (Major GPA: 3.95 / 4.00)
 - 🧑‍💼 Active Member @ **University Programming Council (UPC)** & **Denison Coding Club**
 - 🎧 Live Audio/Visual Systems Specialist @ **Redtech Operations**
 
